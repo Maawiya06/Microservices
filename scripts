@@ -1,0 +1,4 @@
+services:
+  user-service:
+    ports:
+      - "8081:8081"
