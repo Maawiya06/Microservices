@@ -5,6 +5,8 @@ This repository contains the central documentation and orchestration for a Sprin
 ## Services
 - User Service:
   https://github.com/Maawiya06/userServices.git
+- Hotel Services:
+  https://github.com/Maawiya06/HotelServices.git
 
 ## Tech Stack
 - Java 21
