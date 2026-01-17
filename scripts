@@ -8,3 +8,8 @@ services:
   rating-services:
     ports:
       - "8080:8080"
+
+
+registry:
+   - eureka server:
+       "8761"
