@@ -11,6 +11,8 @@ This repository contains the central documentation and orchestration for a Sprin
   https://github.com/Maawiya06/RatingServices.git
 - Registry Services
   https://github.com/Maawiya06/ServiceRegistry.git
+- API GATEWAY
+  https://github.com/Maawiya06/APIGATEWAY.git
 
 ## Tech Stack
 - Java 21
